@@ -1,0 +1,7 @@
+﻿  Pong (Main).cpp
+c:\users\tenay\documents\visual studio stuff\projects\pong\pong\pong (main).cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tenay\documents\visual studio stuff\projects\pong\pong\pong (main).cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ball.cpp
+  bat.cpp
+  Generating Code...
+  Pong.vcxproj -> C:\Users\Tenay\Documents\Visual Studio Stuff\Projects\Pong\Debug\Pong.exe
